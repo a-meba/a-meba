@@ -64,6 +64,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=semanticweb&logoColor=white"/>
 
         
 </p>
