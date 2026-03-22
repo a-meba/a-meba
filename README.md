@@ -1,4 +1,63 @@
 ## Hi there 👋
+# 👋 안녕하세요, 심규성입니다
+
+💡 스마트팩토리를 전공하며  
+데이터와 시스템을 통해 **현실 문제를 해결하는 개발자**를 지향합니다.
+
+단순히 코드를 작성하는 것이 아니라,  
+**현장에서 실제로 쓰일 수 있는 결과물**을 만드는 것에 집중합니다.
+
+---
+
+## 🚀 About Me
+
+- 🏭 스마트팩토리 전공
+- 📊 데이터 기반 문제 해결에 관심
+- 🔧 자동화 / 효율 개선 / 생산성 향상에 흥미
+- 🎯 "쓸모 있는 개발"을 목표로 성장 중
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Language
+- Python
+- Java
+- SQL
+
+### ⚙️ Tools
+- Git & GitHub
+- VS Code
+- MySQL
+- Notion
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=default)
+
+---
+
+## 🧠 Problem Solving
+
+- 🏅 알고리즘 공부 진행 중
+- 📈 꾸준한 코딩 테스트 대비
+
+---
+
+## 📫 Contact
+
+- 📧 Email : your-email@gmail.com
+- 📝 Notion : (링크)
+- 📚 Blog : (링크)
+
+---
+
+## 😎 한마디
+
+> "이론에서 끝내지 않고, 실제로 돌아가는 결과를 만든다."
+
 <h1>안녕하세요, 웹 개발자입니다!</h1>
 <p>
     7년간 웹 개발 분야에서 경험을 쌓으며, 고품질의 웹사이트와 애플리케이션을 제작해 왔습니다. 
