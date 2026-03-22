@@ -69,17 +69,20 @@
         
 </p>
 
-<h2>프로젝트</h2>
+<h2>📁 프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
-   
-    <li>
-  <a href="https://github.com/a-meba/medical-quiz">
-    🧠 프로젝트 2 - 의학용어 퀴즈
-  </a><br/>
-  - 의학용어를 학습할 수 있는 퀴즈 웹 프로젝트<br/>
-  - 반복 학습을 통해 기억을 돕는 구조로 설계
-</li>
-   
+
+  <li style="margin-bottom: 16px;">
+    <a href="https://github.com/a-meba/medical-quiz" target="_blank">
+      🧠 의학용어 퀴즈 (Medical Quiz)
+    </a><br/>
+    <span style="font-size: 14px;">
+      - 간호학 전공 학습을 위해 제작한 퀴즈형 웹 프로젝트<br/>
+      - 반복 학습을 통해 의학용어 암기 효율 향상<br/>
+      - 실제 학습에 활용할 수 있도록 구성
+    </span>
+  </li>
+
 </ul>
 
 
