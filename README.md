@@ -72,7 +72,13 @@
 <h2>프로젝트</h2>
 <ul style="list-style: none; padding: 0;">
    
-    <li><a href="https://github.com/a-meba/medical-quiz">프로젝트 2 - 의학용어퀴즈</a></li>
+    <li>
+  <a href="https://github.com/a-meba/medical-quiz">
+    🧠 프로젝트 2 - 의학용어 퀴즈
+  </a><br/>
+  - 의학용어를 학습할 수 있는 퀴즈 웹 프로젝트<br/>
+  - 반복 학습을 통해 기억을 돕는 구조로 설계
+</li>
    
 </ul>
 
